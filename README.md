@@ -1,4 +1,6 @@
-# With Three js
+# Next + Three.js + GitHub Action
+
+# With Three js 
 
 This example uses:
 
